@@ -1,0 +1,11 @@
+body {background-image:url(go.jpg);
+background-size: cover;}
+hr {border-style: dotted;}
+.name {color:red}
+body {background-size: cover; color:skyblue; 
+font-family: 'Franklin Gothic Medium', 
+'Arial Narrow', Arial, sans-serif; font-size: 30px;}
+p {color:gold; font-size: 30px;}
+h2 {color:pink; font-size:30px;}
+h3 {color:green; font-size: 30px;}
+p2 {color:crimson; font-size: 30px;}
