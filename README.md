@@ -1,2 +1,2 @@
-# table
-ranks
+biography
+
